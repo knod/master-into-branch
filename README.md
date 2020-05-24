@@ -1,3 +1,3 @@
-# master-into-branch (divergance 1 from feature-1)
+# master-into-branch (diverge from feature-1 (2))
 
 Diverging from master
